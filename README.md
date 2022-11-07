@@ -1,8 +1,7 @@
-PROJECT DESCRIPTION 
+PROJECT DESCRIPTION:
 The main purpose of this website is to provide a platform for the users to get a single website where the users can avail various visual effects services. 
 
-PROJECT SCOPE 
-
+PROJECT SCOPE:
 The end user will be able to access the following pages: 
 Home: This is main page with basic details of the site. 
 About Us: Includes the activities done by the team and some of their previous works. 
